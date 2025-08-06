@@ -14,3 +14,5 @@ python yolo_detect.py --model=yolo11n_ncnn_model --source=usb0 --resolution=1280
 
 https://ncnn.readthedocs.io/en/latest/how-to-use-and-FAQ/use-ncnn-with-pytorch-or-onnx.html
 
+
+Make a python script and use AI to convert it to swift native since the yolo ios build is also using native
